@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2115" started-at="2020-08-09T20:30:34 EET" finished-at="2020-08-09T20:30:37 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2115" started-at="2020-08-09T20:30:34 EET" finished-at="2020-08-09T20:30:37 EET">
+      <class name="tests.Results_test2">
+        <test-method status="PASS" signature="strart_driver(java.lang.String)[pri:0, instance:tests.Results_test2@4b553d26]" name="strart_driver" is-config="true" duration-ms="8122" started-at="2020-08-09T20:30:26 EET" finished-at="2020-08-09T20:30:34 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- strart_driver -->
+        <test-method status="PASS" signature="write_data()[pri:0, instance:tests.Results_test2@4b553d26]" name="write_data" duration-ms="41" started-at="2020-08-09T20:30:35 EET" finished-at="2020-08-09T20:30:35 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_data -->
+        <test-method status="PASS" signature="check_results()[pri:1, instance:tests.Results_test2@4b553d26]" name="check_results" duration-ms="1936" started-at="2020-08-09T20:30:35 EET" finished-at="2020-08-09T20:30:37 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_results -->
+        <test-method status="PASS" signature="end_driver()[pri:0, instance:tests.Results_test2@4b553d26]" name="end_driver" is-config="true" duration-ms="0" started-at="2020-08-09T20:30:37 EET" finished-at="2020-08-09T20:30:37 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end_driver -->
+      </class> <!-- tests.Results_test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
